@@ -9,13 +9,13 @@ A full-stack Trello-style task board application built with **React**, **Tailwin
 
 - Prerequisites: Python, pip
 - Setup:
-    - Navigate to the trello-board folder
+    - Navigate to the trello-board\backend folder
     - **Create a virtual environment** :
         py -m venv env
         .\env\Scripts\Activate  
     - **Install dependencies(Adready done , no need to do)**:
         py -m pip install fastapi uvicorn
-    - **Run the backend server**:
+    - **Run the backend server(in trello-board folder)**:
         uvicorn backend.main:app --reload --host 127.0.0.1 --port 8000
 **The backend API will now be available at: http://127.0.0.1:8000**
 
