@@ -48,7 +48,7 @@ function Column({ columnId, droppableId, title, tasks, color, onEdit, onDelete }
               />
 
             ))}
-            {provided.placeholder}
+            {provided.placeholder} 
           </div>
         )}
       </Droppable>

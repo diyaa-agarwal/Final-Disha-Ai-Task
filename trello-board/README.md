@@ -60,3 +60,7 @@ task-board/
 # API Endpoints
 ![Click to see the API endpoints as seen on http://127.0.0.1:8000/docs#/](image.png)
 
+# ChatGPT chat links
+
+- https://chatgpt.com/share/682db786-0b38-8001-9217-1ced095d3c4d
+- https://chatgpt.com/share/682db7b0-8c78-8001-a944-56a9441336fc
